@@ -1,0 +1,3 @@
+puts numbers.min {|x,y| x.size <=> y.size}
+puts numbers.length
+puts numbers.count {|a| numbers.length== 6 } 
